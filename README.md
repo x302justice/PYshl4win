@@ -5,3 +5,7 @@ as the name implies, this only works on windows, just like the last script.
 
 a micrOS with iffy functionality at best with some stuff(mostly file explorer)
 debug app available by typing /set debug mode true. this brings up a badly made file explorer
+
+dd/mm/yy used for updates
+
+update 1: how the fuck did i not see those files in there?(compile.py and system_platform_checker removed from the zip file...soon)
